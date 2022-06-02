@@ -1,0 +1,15 @@
+.renderP {
+  color: rgb(0, 255, 170);
+}
+
+.earthling {
+  font-family: monospace;
+  color: springgreen;
+}
+
+.hope {
+  font-size: 17px;
+  font-weight: 600;
+  font-family: monospace;
+  color: deepskyblue;
+}

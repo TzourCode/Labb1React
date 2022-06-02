@@ -1,38 +1,36 @@
-.App {
-  text-align: center;
+.uul {
+  color: rgb(0, 174, 255);
+  font-style: italic;
+  font-size: 20px;
+}
+label {
+  color: aqua;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+.link {
+  color: gold;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
+.header {
+  color: aqua;
 }
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
+.naav {
+  margin-left: 89%;
+  margin-top: -6%;
+  text-align: justify;
 }
 
-.App-link {
-  color: #61dafb;
+.rocketpics {
+  max-width: 30%;
+  max-height: 30%;
+  padding-bottom: 2%;
+  margin: 1%;
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+body {
+  background-repeat: round;
+  background-size: 100%;
+  background-image: url("WaterOnMars.jpg");
+  background-color: antiquewhite;
 }
