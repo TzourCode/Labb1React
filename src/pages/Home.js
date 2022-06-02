@@ -1,4 +1,5 @@
 import React from "react";
+import space from "../space.jpg";
 
 function Home(props) {
   console.log(props);
@@ -12,6 +13,7 @@ function Home(props) {
         self and travel beyond the <strong>{props.star} </strong>
         we see and continuing the evolution of human species.
       </p>
+      <img alt="space" height="500" src={space} />
     </div>
   );
 }

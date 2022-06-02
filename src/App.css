@@ -4,11 +4,11 @@
   font-size: 20px;
 }
 label {
-  color: aqua;
+  color: rgb(0, 0, 0);
 }
 
 .link {
-  color: gold;
+  color: turquoise;
 }
 
 .header {
@@ -17,7 +17,7 @@ label {
 
 .naav {
   margin-left: 89%;
-  margin-top: -6%;
+  margin-top: -10%;
   text-align: justify;
 }
 
@@ -33,4 +33,9 @@ body {
   background-size: 100%;
   background-image: url("WaterOnMars.jpg");
   background-color: antiquewhite;
+}
+
+h1 {
+  max-width: 80%;
+  color: aqua;
 }

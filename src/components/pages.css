@@ -13,3 +13,14 @@
   font-family: monospace;
   color: deepskyblue;
 }
+
+.labels {
+  color: aquamarine;
+}
+label {
+  color: aquamarine;
+}
+
+p {
+  color: pink;
+}
