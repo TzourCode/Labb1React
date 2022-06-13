@@ -20,6 +20,11 @@ function App() {
         <nav className="naav">
           <ul className="uul">
             <li>
+              <Link className="link" to="/">
+                Homehome
+              </Link>
+            </li>
+            <li>
               <Link className="link" to="/pages/Home">
                 Hope
               </Link>

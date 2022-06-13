@@ -1,3 +1,3 @@
-import Ifshowpic from "../components/Ifshowpic";
+import Ifshowpic from "../components/Quiz";
 
 export default Ifshowpic;
